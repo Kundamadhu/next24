@@ -1,11 +1,11 @@
-***House Price Prediction System Using Data Analytics Algorithms:
+project-1>> House Price Prediction System Using Data Analytics Algorithms:
 
 
 In this task, you'll delve into the realm of real estate data analysis. Your goal will be to develop a predictive model that can accurately forecast house prices based on various factors.
 This project will involve data collection, preprocessing, feature engineering, model selection, and evaluation.
 
 
-**Ecommerce-product-recommendation-system**
+project-2>> Ecommerce-product-recommendation-system
 
 
 Product Recommendation System is a machine learning-based project that provides personalized product recommendations to users based on their browsing and purchase history. The system utilizes collaborative filtering and content-based filtering algorithms to analyze user behavior and generate relevant recommendations. This project aims to improve the overall shopping experience for users, increase sales for e-commerce businesses
