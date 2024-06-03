@@ -82,6 +82,8 @@ The squared parameter in the mean_squared_error function determines whether to r
 
 project>>3 -- Twitter Sentiment Analysis
 
+You can find the dataset here -(https://www.kaggle.com/code/stoicstatic/twitter-sentiment-analysis-for-beginners/input?select=training.1600000.processed.noemoticon.csv)
+
 Natural Language Processing (NLP): The discipline of computer science, artificial intelligence and linguistics that is concerned with the creation of computational models that process and understand natural language. These include: making the computer understand the semantic grouping of words (e.g. cat and dog are semantically more similar than cat and spoon), text to speech, language translation and many more
 
 Sentiment Analysis: It is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques. Sentiment analysis allows organizations to identify public sentiment towards certain words or topics.
